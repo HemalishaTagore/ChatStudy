@@ -109,12 +109,10 @@ s.close()
 ## OUTPUT:
 
 client:
-
-<img width="644" height="184" alt="client" src="https://github.com/user-attachments/assets/3384eb44-0143-492d-ac9f-16d0f9a5a7f6" />
+![image](client1.png)
 
 server:
-
-<img width="591" height="182" alt="server" src="https://github.com/user-attachments/assets/3c00b3f5-bfaa-473d-af66-cc42183cd91f" />
+![image](server1.png)
 
 
 ## Result:
