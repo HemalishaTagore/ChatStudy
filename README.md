@@ -109,9 +109,11 @@ s.close()
 ## OUTPUT:
 
 client:
+
 ![image](client1.png)
 
 server:
+
 ![image](server1.png)
 
 
